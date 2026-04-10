@@ -10,9 +10,9 @@
 ## 👩‍💻 About Me
 
 ```java
-public class Aishwarya {
+public class Prajkta {
 
-    String name       = "Aishwarya Kadam";
+    String name       = "Prajkta Chavan";
     String role       = "Frontend Developer (Fresher)";
     String location   = "Maharashtra, India 🇮🇳";
     String[] skills   = { "HTML", "CSS", "JavaScript", "React", "Bootstrap" };
