@@ -68,11 +68,8 @@ public class Prajkta {
 - 💼 Actively seeking **Frontend Developer** opportunities
 
 ---
-![©](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  
-  
-sᴛᴀᴛᴜs :🪽  
-  
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajktac210&theme=github-compact&custom_title=ᴘʀᴀᴊᴋᴛᴀ%20ᴀᴄᴛɪᴠɪᴛʏ%20Graph&hide_border=true)](https://github.com/Prajktac210)  
+
+
   
 
 
